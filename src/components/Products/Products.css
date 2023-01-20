@@ -1,0 +1,15 @@
+.box {
+  display: flex;
+}
+
+.small-box {
+  display: flex;
+  flex-direction: column;
+  margin: 2vmax;
+  color: aliceblue;
+}
+
+.image {
+  width: 20vw;
+  height: 30vh;
+}

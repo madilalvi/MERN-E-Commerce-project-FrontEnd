@@ -1,0 +1,16 @@
+.Heading {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+  height: 10vh;
+}
+
+.text {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  color: rgb(255, 255, 255);
+}
